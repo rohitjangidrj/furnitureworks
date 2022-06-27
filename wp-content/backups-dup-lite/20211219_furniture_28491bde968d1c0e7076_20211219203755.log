@@ -1,0 +1,86 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: December 19, 2021 8:38 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.3
+WORDPRESS:	5.8.2
+PHP INFO:	7.3.21 | SAPI: apache2handler
+SERVER:		Apache/2.4.46 (Win64) PHP/7.3.21 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (128M default) 
+MEMORY STACK: 2MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:21 | filtered:0 | create:21
+FILTERED: []
+SQL CREATED: 20211219_furniture_28491bde968d1c0e7076_20211219203755_database.sql
+SQL FILE SIZE: 19.15MB (20079521)
+SQL FILE TIME: 2021-12-19 20:38:15
+SQL RUNTIME: 1.98 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/wamp64/www/furnitureworks
+ARCHIVE FILE: 20211219_furniture_28491bde968d1c0e7076_20211219203755_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	135.05MB
+STATS:	Dirs 1,327 | Files 6,511
+SQL ADDED: 20211219_furniture_28491bde968d1c0e7076_20211219203755_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 7838
+    [filename] => C:\wamp64\www\furnitureworks\wp-content\backups-dup-lite\tmp\20211219_furniture_28491bde968d1c0e7076_20211219203755_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 7837
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 48.97MB
+ARCHIVE RUNTIME: 108.97 sec.
+MEMORY STACK: 6MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/wamp64/www/furnitureworks/wp-content/backups-dup-lite/tmp/20211219_furniture_28491bde968d1c0e7076_20211219203755_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 19.15MB
+INSTALLER FILE: 64.26KB
+ARCHIVE FILE: 49.98MB 
+EXPECTED FILE/DIRECTORY COUNT: 7,838
+ACTUAL FILE/DIRECTORY COUNT: 7,837
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 112.09 sec.
+PEAK PHP MEMORY USED: 14MB
+DONE PROCESSING => 20211219_furniture December 19, 2021 8:40 pm
+
