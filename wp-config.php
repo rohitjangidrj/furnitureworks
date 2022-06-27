@@ -72,7 +72,7 @@ $table_prefix = 'wp_';
  *
  * Change this to true to enable the display of notices during development.
  * It is strongly recommended that plugin and theme developers use WP_DEBUG
- * in their development environments.
+ * in their development environments. Rohit 
  *
  * For information on other constants that can be used for debugging,
  * visit the documentation.
